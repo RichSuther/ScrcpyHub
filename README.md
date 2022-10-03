@@ -6,7 +6,7 @@ mirroring android command tool.
 
 https://user-images.githubusercontent.com/23740796/179343198-634e852a-602a-4466-8496-55f6dcd78add.mp4
 
-# ✨ Feature
+# ✨ Features
 
 - Support Windows10/11, Linux, macOS. 🖥️
 
@@ -20,7 +20,7 @@ https://user-images.githubusercontent.com/23740796/179343198-634e852a-602a-4466-
 
 - Record movies. 🎥
 
-- Support tary menu. 📥
+- Support tray menu. 📥
   - Display and hide window.
   - Enable always on top.
 
